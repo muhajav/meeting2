@@ -1,0 +1,69 @@
+input: 
+	Enter your name: Javier
+	The grossSalary: 90000000
+	The installment: 10000000
+	The insurance: 500000
+output: 
+	Payslip for Employee
+	----------------------
+	Name: Javier
+	Tax (20%): 18000000
+	Installment: 10000000
+	Insurance: 500000
+	Net Salary: 61500000
+
+input: 
+	Enter your name: Panji
+	The grossSalary: 100000
+	The installment: 90000
+	The insurance: 20000
+output: 
+	Payslip for Employee
+	----------------------
+	Name: Panji
+	Tax (20%): 20000
+	Installment: 90000
+	Insurance: 20000
+	Net Salary: -30000
+
+input: 
+	Enter your name: Ucup
+	The grossSalary: 900000
+	The installment: 100000
+	The insurance: 5000
+output:
+	Payslip for Employee
+	----------------------
+	Name: Ucup
+	Tax (20%): 180000
+	Installment: 100000
+	Insurance: 5000
+	Net Salary: 615000
+
+input: 
+	Enter your name: aldo
+	The grossSalary: 95899
+	The installment: 455
+	The insurance: 4587
+output:
+	Payslip for Employee
+	----------------------
+	Name: aldo
+	Tax (20%): 19179
+	Installment: 455
+	Insurance: 4587
+	Net Salary: 71678
+
+input: 
+	Enter your name: aldan
+	The grossSalary: 785755
+	The installment: 45855
+	The insurance: 59849
+output: 
+	Payslip for Employee
+	----------------------
+	Name: aldan
+	Tax (20%): 157151
+	Installment: 45855
+	Insurance: 59849
+	Net Salary: 522900
