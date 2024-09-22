@@ -1,0 +1,20 @@
+input: 8 9 10
+output: The equation has no solution
+
+input: 10 9 1
+output: 
+	x1: -12.9844
+	x2: -77.0156
+
+input: 1 -4 4
+output: x: 2
+
+input: 4 19 2
+output: 
+	x1: -1.72329
+	x2: -74.2767
+
+input: 8 23 2
+output: 
+	x1: -5.74457
+	x2: -178.255
